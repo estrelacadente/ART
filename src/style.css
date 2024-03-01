@@ -1,0 +1,52 @@
+body {
+  background-color: fuchsia;
+  font-family: comic sans ms;
+}
+h1 { 
+color: black;
+
+}
+p {
+  color: black;
+}
+h2 {
+  color: white;
+}
+p2 {
+  color: yellow;
+}
+
+ul {
+  color: darkseagreen;
+}
+
+ol{
+  color: powderblue;
+}
+
+dl{
+  color: yellow;
+}
+.not{
+  width: 45%;
+  margin-left: 1%;
+  margin-top: 2%;
+}
+.lists{
+  width: 40%;
+  margin-left: 1%; 
+    
+}
+li {
+  color: white;
+}
+.nav{
+  background-color: black;
+  text-color: white;
+  width: 6%;
+  height:25;
+}
+.nav a:hover{
+  color:blue;
+  background-color: pink;
+}
